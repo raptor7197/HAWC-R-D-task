@@ -5,15 +5,14 @@ This is my submission for the Intern Task provided
 # Create virtual environment
 python -m venv venv
 
-# Activate virtual environment
-# On Windows:
+## On Windows:
 venv\Scripts\activate
-# On macOS/Linux:
+## On macOS/Linux:
 source venv/bin/activate
 
-# Install dependencies
+## to  install dependencies
 pip install -r requirements.txt
 
-# Install browsers (if needed)
-# Chrome: Download from https://www.google.com/chrome/
-# Firefox: Download from https://www.mozilla.org/firefox/
+### Install browsers (if needed)
+### Chrome: Download from https://www.google.com/chrome/
+### Firefox: Download from https://www.mozilla.org/firefox/
